@@ -114,8 +114,9 @@ HISAT2](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_introduction.
 
 12:45 - 13:45 Lunch
 
-13:45 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_introduction.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_introduction.pdf))- Abbi Edwards
-    - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.pdf))  
+13:45 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_introduction.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_introduction.pdf)) - Abbi Edwards
+
+  - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.pdf))  
   <!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.pdf))    -->
 
 15:30 - 17:00 [Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_introduction.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_introduction.pdf)) - Chandra Chilamakuri  
@@ -138,7 +139,7 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 - Part I: [Statistics of RNA-seq analysis](https://docs.google.com/presentation/d/1cQmJ41AC7Xw2kvt5xiJBIHU4uqJonjH0TNURUkzWZCQ/edit?usp=sharing) - Abbi Edwards
 
-- Part II: [Linear Models in R and DESeq2](Bulk_RNAseq_Course_Base/Markdowns/09_Linear_Models.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/09_Linear_Models.pdf)) - Ashley D Sawle  
+- Part II: [Linear Models in R and DESeq2](Bulk_RNAseq_Course_Base/Markdowns/09_Linear_Models.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/09_Linear_Models.pdf)) - Abbi Edwards  
     - [Slides](https://docs.google.com/presentation/d/1FTP_gdOQ7sBQWZqTbkB97uUzZ57O9FTyVTgfQrqHPeg/edit?usp=sharing) <!-- ([live whiteboard used during lecture](https://jamboard.google.com/d/1lWsGcrH6uihB0A9OIIZ9P-DbdrS2oUOZPl2EdpcZGJM/edit?usp=sharing)) -->
     - Find the worksheet in `Course_Materials/stats/models_in_r_worksheet.R`
 
