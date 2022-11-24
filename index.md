@@ -137,10 +137,10 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 13:15 - 15:45 Statistical Analysis of Bulk RNAseq Data
 
-- Part I: [Statistics of RNA-seq analysis](https://docs.google.com/presentation/d/1cQmJ41AC7Xw2kvt5xiJBIHU4uqJonjH0TNURUkzWZCQ/edit?usp=sharing) - Abbi Edwards
+- Part I: [Statistics of RNA-seq analysis](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/RNA-seq_stats.pptx) - Abbi Edwards
 
 - Part II: [Linear Models in R and DESeq2](Bulk_RNAseq_Course_Base/Markdowns/09_Linear_Models.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/09_Linear_Models.pdf)) - Abbi Edwards  
-    - [Slides](https://docs.google.com/presentation/d/1FTP_gdOQ7sBQWZqTbkB97uUzZ57O9FTyVTgfQrqHPeg/edit?usp=sharing) <!-- ([live whiteboard used during lecture](https://jamboard.google.com/d/1lWsGcrH6uihB0A9OIIZ9P-DbdrS2oUOZPl2EdpcZGJM/edit?usp=sharing)) -->
+    - [Slides](https://docs.google.com/presentation/d/1FTP_gdOQ7sBQWZqTbkB97uUzZ57O9FTyVTgfQrqHPeg/edit?usp=sharing) 
     - Find the worksheet in `Course_Materials/stats/models_in_r_worksheet.R`
 
 
