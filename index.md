@@ -146,7 +146,7 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 15:45 - 17:00 - [Differential Expression for RNA-seq - Part 1](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part1.html)
 ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part1.pdf)) - Abbi Edwards
-<!-- - [Live script](live_scripts/DESeq2_part1.R) -->
+ - [Live script](live_scripts/DESeq2_part1.R)
 
 ### Day 3
 
