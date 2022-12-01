@@ -150,7 +150,7 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 ### Day 3
 
-9.30 - 10.00 - [Recap of Day 1 and 2](https://docs.google.com/presentation/d/15Nz5Kv5uMOG96ai6cZ06igMuYlCd3Rm6Ls071nOMZyc/edit?usp=sharing) - Abbi Edwards
+9.30 - 10.00 - [Recap of Day 1 and 2](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Analysis_of_RNA-seq_data_day3recap.pdf) - Abbi Edwards
 
 10.00 - 12:00 - [Differential Expression for RNA-seq - Part 2](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.pdf)) - Abbi Edwards
  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.pdf))  
@@ -168,6 +168,7 @@ results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html)
 
 15:00 - 17:00 [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing_introduction.html) - Chandra Chilamakuri
    - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.pdf)
+   
   <!-- - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.pdf) 
    - [Live Script](live_scripts/GS.R) -->
 
