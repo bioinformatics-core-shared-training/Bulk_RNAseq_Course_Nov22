@@ -131,8 +131,7 @@ R](Bulk_RNAseq_Course_Base/Markdowns/06_Introduction_to_RNAseq_Analysis_in_R.htm
 10:15 - 12:15 - [RNA-seq
 Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.pdf)) - Chandra Chilamakuri   
    - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.Solutions.pdf)) 
- 
-    - [Live script](live_scripts/DataExploration.R) 
+   - [Live script](live_scripts/DataExploration.R) 
 
 12:15 - 13:15 Lunch
 
