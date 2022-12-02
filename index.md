@@ -168,8 +168,8 @@ results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html)
 
 15:00 - 17:00 [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing_introduction.html) - Chandra Chilamakuri
    - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.pdf)
-  <!-- - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.html) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.pdf) -->
-  <!-- - [Live Script](live_scripts/GS.R) -->
+   - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.html) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.pdf) 
+   - [Live Script](live_scripts/GS.R) 
 
 <!-- Goodbye: Abbi -->
 
